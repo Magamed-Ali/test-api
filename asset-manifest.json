@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-api/static/css/main.00e4dc6d.css",
+    "main.js": "/test-api/static/js/main.f6c32e2d.js",
+    "static/media/restart_system_icon_218079.svg": "/test-api/static/media/restart_system_icon_218079.daa6588bbab4cf56e405e89d0f805960.svg",
+    "index.html": "/test-api/index.html",
+    "main.00e4dc6d.css.map": "/test-api/static/css/main.00e4dc6d.css.map",
+    "main.f6c32e2d.js.map": "/test-api/static/js/main.f6c32e2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e4dc6d.css",
+    "static/js/main.f6c32e2d.js"
+  ]
+}
